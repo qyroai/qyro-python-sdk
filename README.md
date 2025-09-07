@@ -1,4 +1,4 @@
-# Qyro Python SDK (example)
+# Qyro Python SDK
 
 ### Installation
 
